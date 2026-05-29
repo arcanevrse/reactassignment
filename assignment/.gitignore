@@ -1,4 +1,4 @@
-
+.gitignore
 # Logs
 logs
 *.log
@@ -7,6 +7,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.eslint.config.js
 
 node_modules
 dist
