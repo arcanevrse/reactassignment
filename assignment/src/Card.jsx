@@ -25,7 +25,7 @@ export function Cards() {
         avatar="🙍‍♂️"
         name="DakOS"
         role="Dev/Designer"
-        skill={["react"]}
+        skill={[" react,", " Ps"]}
       />
       <ProfileCard avatar="🙍‍♂️" name="Emma" role="Trader" />
     </>
